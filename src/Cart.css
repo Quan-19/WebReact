@@ -1,0 +1,32 @@
+/* src/Cart.css */
+
+.cart-container {
+  padding: 20px;
+}
+
+.cart ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.cart ul li {
+  margin-bottom: 10px;
+}
+
+.total {
+  margin-top: 20px;
+}
+
+button {
+  padding: 8px 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
